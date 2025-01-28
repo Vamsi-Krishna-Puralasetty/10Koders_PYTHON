@@ -6,3 +6,4 @@ print(a*b)  #8+22j-15=22j-7
 print(a/b)  
 # print(a//b) #unsupported operand
 print(a**b)
+print(a%b)  #unsupported operand
