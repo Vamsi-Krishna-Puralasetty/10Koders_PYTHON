@@ -47,7 +47,7 @@
 
 #Truthy values and Falsy values
 #Truthy values--> all numbers except zero,True , all Strings including space(" ") except empty string("")
-#Falsy values--> 0,False, empty string ("")
+#Falsy values--> 0,False, empty string (""), none
 
 
 # numeric

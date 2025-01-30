@@ -33,8 +33,8 @@
 
 # OPERATORS
 # values are called operands
-# Arithmatic operators --> + , - , * , / , % , // , **
-# Relational operators --> = , < , >, <=, >=, ==, !=
+# Arithmatic operators --> + , - , * , / , % , // , ** -->follow BODMAS   -->Execution form right ot left
+# Relational operators --> = , < , >, <=, >=, ==, !=     -->Execution form right ot left
 # Assignment operators --> =, +=, -=, /=, //=, **=
 
 
