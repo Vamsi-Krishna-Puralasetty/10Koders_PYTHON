@@ -3,7 +3,7 @@
 # range(0,100)-->0 to 99
 #range(100)-->0 to 99
 #range(100,0,-1)-->100 to 1
-#range(100,-1)-->empty list
+# range(100,-1)-->empty list
 
 #DATA Type:
 #DICTIONARY {key:"value"}
@@ -11,7 +11,7 @@
 #same value can be given to different keys 
 #same keys cannot be have different values
 #duplicate keys are not allowed and if we give duplicate key, old value is updated by latest value will assigned to key
-#new keys and values can be given and they will added at end of dict but if the key is already present the it wont be aiigned at the end but the key value will be updated by new assigned value to the key.
+#new keys and values can be given and they will added at end of dict but if the key is already present the it wont be aligned at the end but the key value will be updated by new assigned value to the key.
 #
 
 
@@ -19,7 +19,7 @@
 # SET {} --> individual elements separated by comma
 #no keys and value pairs
 #mathematically-->unordered,Finite,unique 
-#python-->immutable,indexing is not possible
+#Set -->immutable,indexing is not possible
 #order changes only after running the code or execution. multiple types printing before execution gives same order. 
 
 dict={1:"a",2:"b",3:"c",4:"d",5:"e",6:"f","g":7}

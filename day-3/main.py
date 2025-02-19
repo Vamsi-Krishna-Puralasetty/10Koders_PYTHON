@@ -4,8 +4,8 @@
 my_list = [1,2,3,"str",["hey",-2,-4,0]]
 print(type(my_list)) #<class 'list'>
 print(my_list[0]) #1
-print(my_list[-1]) #[-2,-4,0]
-print(my_list[4][2]) #0
+print(my_list[-1]) #['hey',-2,-4,0]
+print(my_list[4][2]) #-4
 print(len(my_list)) #5
 print(len(my_list[4][0])) #3
 

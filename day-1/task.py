@@ -23,7 +23,7 @@ print(type(div))
 
 #DATA TYPE  -->  structure of data
 #String --> Sequence of characters enclosed in "string" or 'string' or '''string'''.
-#numerics --> int,float,complex numbers, boolean
+#numerics --> int,float,complex numbers, boolean, none
 #             complex numbers format in python is a+bj. not!!!!  a+bi
 
 
